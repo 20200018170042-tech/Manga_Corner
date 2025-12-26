@@ -1,0 +1,62 @@
+h1{
+    color:rgb(10, 27, 102); 
+    text-align:center;
+    font-size: 60px;
+    background-color: rgb(161, 182, 199);
+    margin:auto;
+    padding: 35px;
+}
+body{
+    background-color:rgb(248, 249, 250);
+}
+p{
+    font-size: 25px;
+    color:black;
+}
+p1{
+    font-size: 35px;
+    color: rgb(124, 98, 31);
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: left;
+}
+nav{
+    float:right;
+    display:flex;
+    gap:20px;
+    font-size: larger;
+}
+nav a:hover{
+    background-color: rgb(192, 182, 202);
+    
+}
+
+a{
+    font-size: larger;
+    color:rgb(17, 17, 17);
+}
+p2{
+    color: rgb(15, 15, 15);
+    font-size: 35px;
+    font-style: inherit;
+}
+img{
+    width:350px;
+    height:450;
+}
+p3{
+    color: rgb(51, 78, 90);
+    font-size: 25px;
+
+}
+p4{
+    color: rgb(124, 15, 15);
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 25px;
+
+
+}
+p5{
+    color: black;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 30px;
+}

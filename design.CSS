@@ -1,0 +1,51 @@
+h1{
+    color:rgb(10, 27, 102);
+    text-align:center;
+    font-size: 60px;
+    background-color: rgb(161, 182, 199);
+    margin:auto;
+    padding: 35px;
+}
+body{
+    background-color:rgb(248, 249, 250);
+}
+p{
+    font-size: 25px;
+    color:black;
+}
+p1{
+    font-size: 35px;
+    color: rgb(63, 49, 13);
+    font-family:'Times New Roman', Times, serif;
+}
+nav{
+    float:right;
+    display:flex;
+    gap:20px;
+    font-size: larger;
+
+}
+nav a:hover{
+    background-color: rgb(192, 182, 202);
+    
+}
+
+a{
+    font-size: larger;
+    color:rgb(17, 17, 17);
+}
+img{
+    width:150px;
+    height: 150px;
+
+}
+p2{
+    color: rgb(68, 18, 18);
+    font-size: 35px;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.logo{
+    width: 200px;
+    height: 250px;
+    float:right;
+}

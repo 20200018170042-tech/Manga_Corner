@@ -1,0 +1,39 @@
+h1{
+    color:rgb(10, 27, 102); 
+    text-align:center;
+    font-size: 60px;
+    background-color: rgb(161, 182, 199);
+    margin:auto;
+    padding: 35px;
+}
+body{
+    background-color:rgb(248, 249, 250);
+}
+p{
+    font-size: 25px;
+    color:black;
+}
+p1{
+    font-size: 35px;
+    color: rgb(124, 98, 31);
+    font-style: inherit;
+}
+nav{
+    float:right;
+    display:flex;
+    gap:20px;
+    font-size: larger;
+
+}
+nav a:hover{
+    background-color: rgb(192, 182, 202);
+    
+}
+
+a{
+    font-size: larger;
+    color:rgb(17, 17, 17);
+}
+img{
+    float:center;
+}
